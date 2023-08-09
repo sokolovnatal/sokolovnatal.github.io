@@ -75,7 +75,7 @@ h2 {
 	font-weight: bold;
 	margin-bottom: 12px;
 	font-size: 18px;
-	background-image: url('buttonbg.png');
+	background-image: url('button.gif');
 	border-radius: 5px;
 	color: purple;
 	text-decoration: none;
@@ -87,7 +87,7 @@ h2 {
 	background-position: bottom; 
 }
 
-.rat {
+.pegasus {
   position: absolute;
   top: 0;
   right: 40px;
@@ -95,8 +95,8 @@ h2 {
 }
 
 .title {
-  padding-top: 20px;
-  padding-left: 20px;
+  padding-top: 50px;
+  padding-left: 40px;
 }
 
 h1 {
