@@ -5,6 +5,7 @@ body, html {
 	background: purple;
 	font-size: 12px;
 	font-family: Calibri, sans-serif;
+	cursor: url("/cursor.png"), auto
 }
 
 .page {
